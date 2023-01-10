@@ -4,7 +4,7 @@
 $i = 1;
 
 while ($i < 6) {
-  echo $i;
+  echo $i . '<br>';
   $i++;
 }
 
@@ -14,14 +14,14 @@ echo"<br><br>";
 $i = 1;
 
  do {
-     echo $i;
+     echo $i . '<br>';
      $i++;
  } while  ($i < 6);
 
 echo"<br><br>";
 //Troisieme ligne
  for ($i = 0; $i < 10; $i++ ) {
-    echo $i;
+    echo $i . '<br>';
 }
 
 
