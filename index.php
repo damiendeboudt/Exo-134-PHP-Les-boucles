@@ -33,4 +33,4 @@ $colors = array("red", "green", "blue", "yellow");
     echo $x . '<br>';
 }
 
-
+?>
